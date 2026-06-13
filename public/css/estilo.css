@@ -1,0 +1,30 @@
+/* Estilos personalizados - Rapi Pizza */
+
+body {
+    background-color: #f8f8f8;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 1.4rem;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.table th {
+    background-color: #fbe9e9;
+}
+
+/* Para que las tarjetas de pedidos en cocina se vean más grandes */
+#tipo_pedido {
+    cursor: pointer;
+}
+
+footer {
+    text-align: center;
+    color: #888;
+    margin-top: 30px;
+    font-size: 0.9rem;
+}
